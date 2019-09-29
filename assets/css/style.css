@@ -1,0 +1,18 @@
+
+html, body{
+  height:100%;
+}
+
+  body{
+    background-image: url(../images/backgroundsoccer.jpg);
+    text-align: center;
+  
+  }
+
+.container{
+  margin:2.5% auto;
+  background-color: rgba(252, 234, 40, 0.83);
+  width:960px;
+  height: 95%;
+  box-sizing: border-box;
+}
